@@ -11,5 +11,18 @@
     Typing or pasting in bundle exec jekyll serve --watch a lot? Instead, you can type the ↑
 	(up arrow) at the command line to scroll through recently typed commands; just press enter after the
 	command you want to use appears.
+	
+	
+	
+    Open the GitHub Desktop app and type a short description of your changes
+	(and optionally a longer description in the second text box).
+    
+	Click the “commit” button underneath the text box.
+    
+	Once the commit has finished, click the “Sync” button in the top-right.
+    
+	Give GitHub a little time to receive these changes (about 10-90 seconds) before
+	refreshing your live site to see your changes there.
+
 
 	http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages
