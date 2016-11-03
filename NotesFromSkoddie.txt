@@ -1,4 +1,4 @@
-	Open start menu, type CMD, right click -> "Run as Administrator"
+	Press Windows + R and type "cmd"
 	Copypaste cd C:\Users\Amy\Documents\GitHub\the-life-of-fetzig
     Type bundle exec jekyll serve --watch at the command line to start running your website locally.
 	Visit http://localhost:4000/the-life-of-fetzig in chrome to see a local preview.
