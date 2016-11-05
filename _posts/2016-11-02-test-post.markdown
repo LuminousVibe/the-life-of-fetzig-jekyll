@@ -1,7 +1,0 @@
----
-layout: post
-title:  "This is a Test Post! Hooray!"
-date:   2016-11-02 21:33:05 -0700
-categories:
----
-Hello today I setup this blog for Amy this is skoddie, i can't english language test ipsum lorem dolor
